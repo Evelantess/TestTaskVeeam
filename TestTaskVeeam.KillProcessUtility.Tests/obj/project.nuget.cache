@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "iwa3UfaGjG2zvmAhEv7n7D1fHAGG6WQ/5apYOLRWvKgNY44urr8PC2Hyjbh64Mg0F8QNrdxNzB1GQMg5kpnUDg==",
+  "success": true,
+  "projectFilePath": "/Users/macbook/ProjectsC#/TestTaskVeeam/TestTaskVeeam.KillProcessUtility/TestTaskVeeam.KillProcessUtility.Tests/TestTaskVeeam.KillProcessUtility.Tests.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.codecoverage/17.9.0/microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.net.test.sdk/17.9.0/microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.testplatform.objectmodel/17.9.0/microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.testplatform.testhost/17.9.0/microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/mono.posix.netstandard/1.0.0/mono.posix.netstandard.1.0.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/moq/4.20.70/moq.4.20.70.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/nunit/4.1.0/nunit.4.1.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/nunit3testadapter/4.5.0/nunit3testadapter.4.5.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
